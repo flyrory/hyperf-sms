@@ -1,6 +1,8 @@
 <p align="center">:calling: 一款满足你的多种发送需求的短信发送组件</p>
 <p align="center">本组件是由 overtrue/easy-sms 改造，升级了原有主键依赖较低的问题；支持hyperf组件，直达连接： https://github.com/overtrue/easy-sms/blob/master/README.md</p>
 
+<p align="center">在原基础上升级了hyperf组件版本，感谢原作者：https://github.com/wojiushidashen/hyperf-sms</p>
+
 ## 特点
 
 1. 支持目前市面多家服务商
